@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priydarshi Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/priydarshi12&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/priydarshi12" /> </p>
+<h3 align="center">I am currently pursuing my B Tech degree in Compute Science Engineering from JC Bose University of Science and Technology, Faridabad</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/priydarshi12&theme=" alt="https://github.com/priydarshi12" /></a> </p>
-
-- 🔭 I’m currently working on **MERN stack**
 - 👯 I’m looking to collaborate on **interesting projects**
 - 🌱 I’m currently learning **MERN stack and DSA**
 
@@ -29,5 +26,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Automation/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 </p>
+
 
